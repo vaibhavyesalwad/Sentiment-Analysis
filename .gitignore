@@ -1,0 +1,12 @@
+# ignoring .idea
+.idea/*
+# ignoring venv
+venv/* 
+# ignoring .ipynb_checkpoints
+.ipynb_checkpoints 
+*/.ipynb_checkpoints/*
+*__pycache__/*
+*.csv
+*.hdf5
+
+
